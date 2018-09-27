@@ -12,6 +12,11 @@ public class RegnemaskineTest {
         assertEquals(minTestRegn.lægSammen(3,3), 6);
     }
 
+
+
+
+    //Her er en kommentar
+
     @org.junit.Test
     public void tjekÅrstal() {
 
